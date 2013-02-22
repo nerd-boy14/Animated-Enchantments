@@ -4,3 +4,9 @@
 *.jar
 *.war
 *.ear
+
+#minecraft directorys
+net/
+cpw/
+ibxm/
+paulscode/
